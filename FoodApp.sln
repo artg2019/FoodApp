@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodApp.UI", "FoodApp.UI\FoodApp.UI.csproj", "{7107D0E8-2320-4292-BC8A-557D86344936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodApp.BL", "FoodApp.BL\FoodApp.BL.csproj", "{6C30AFC5-E617-4C01-B95E-C858F1DAB9AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7107D0E8-2320-4292-BC8A-557D86344936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7107D0E8-2320-4292-BC8A-557D86344936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7107D0E8-2320-4292-BC8A-557D86344936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7107D0E8-2320-4292-BC8A-557D86344936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C30AFC5-E617-4C01-B95E-C858F1DAB9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C30AFC5-E617-4C01-B95E-C858F1DAB9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C30AFC5-E617-4C01-B95E-C858F1DAB9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C30AFC5-E617-4C01-B95E-C858F1DAB9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F618BC9-1F73-4BD0-9606-7BF168028791}
+	EndGlobalSection
+EndGlobal
